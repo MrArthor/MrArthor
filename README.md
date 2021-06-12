@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/mrarthor/" target="blank"><i class="fab fa-linkedin">hie</i></a>
+<a href="https://www.linkedin.com/in/mrarthor/" target="blank"><i class="fab fa-linkedin"></i></a>
 <a href="https://www.instagram.com/mrarthor/" target="blank"<i class="fab fa-instagram"></i></a>
 <!-- <a href="https://www.codechef.com/users/umng01" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="umng01" height="30" width="40" /></a> -->
 <a href="https://www.hackerrank.com/VanshSachdev" target="blank"<i class="fab fa-hackerrank"></i></a>
