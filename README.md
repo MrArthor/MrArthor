@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Vansh sachdev</h1>
+<h1 align="center">Hi 👋, I'm Vansh Sachdev</h1>
 <h3 align="center">A passionate Competitive Programmer, Web-Developer developer from Delhi, India</h3>
 
 <h3 align="left">Connect with me:</h3>
