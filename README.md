@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning React.Js And Related Node Modules<br>👨‍💻 All of my projects are available at https://mrarthor.study/<br>💬 Ask me about Python, Machine Learning, Backend Development<br>📫 How to reach me vksvs25@gmail.com<br>📄 Know about my experiences [https://1drv.ms/f/s!AhTHc0qqKdnfu_0hQRUw2FoiwX2Jxg?e=UFr5Cd](https://1drv.ms/f/s!AhTHc0qqKdnf27Rn4z9MicBcv9rYFg)
+🌱 I’m currently learning React.Js And Related Node Modules<br>👨‍💻 All of my projects are available at https://mrarthor.study/<br>💬 Ask me about Python, Machine Learning, Backend Development<br>📫 How to reach me vksvs25@gmail.com<br>📄 Know about my experiences [Resume Link](https://1drv.ms/f/s!AhTHc0qqKdnf27Rn4z9MicBcv9rYFg)
 
 
 ## 🌐 Socials:
