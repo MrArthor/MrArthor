@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning React.Js And Related Node Modules<br>👨‍💻 All of my projects are available at https://mrarthor.study/<br>💬 Ask me about Python, Machine Learning, Backend Development<br>📫 How to reach me vksvs25@gmail.com<br>📄 Know about my experiences [Resume Link](https://github.com/MrArthor/Portfolio-Latest/blob/main/RESUME_Vansh_Sachdeva_.pdf)
+🌱 I’m currently learning React.Js And Related Node Modules<br>👨‍💻 All of my projects are available at https://vanshsachdeva.software/<br>💬 Ask me about Python, Machine Learning, Backend Development<br>📫 How to reach me vksvs25@gmail.com<br>📄 Know about my experiences [Resume Link](https://github.com/MrArthor/Portfolio-Latest/blob/main/RESUME_Vansh_Sachdeva_.pdf)
 
 
 ## 🌐 Socials:
